@@ -8,24 +8,6 @@
 ![GitHub](https://img.shields.io/badge/Hosted_on-GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-### 🔍 Overview
-This project reconciles client-reported transactions with internal records to identify mismatches, missing entries, and amount discrepancies.
-
-### 📊 Key Features
-- Compares transaction ID, amount, and date
-- Uses Excel functions (VLOOKUP, IF, Conditional Formatting)
-- Mimics SQL-style JOIN logic
-- Ideal for QA and audit reporting in BFSI
-
-### 📁 Files Included
-- `client_transactions.csv`
-- `internal_transactions.csv`
-- `reconciliation_report.xlsx`
-
-
-# Client Transaction Reconciliation Tool – Ajay Sharnagat
-
 This project compares client-reported transactions against internal records to detect mismatches and missing entries.
 
 ## 📂 Files Included
