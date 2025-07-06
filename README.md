@@ -1,3 +1,29 @@
+## 🧾 Client Transaction Reconciliation Tool – Ajay Sharnagat
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL Logic](https://img.shields.io/badge/SQL-Logic-blue?style=for-the-badge)
+![BFSI](https://img.shields.io/badge/Domain-BFSI-blue?style=for-the-badge)
+![QA Automation](https://img.shields.io/badge/QA-Automation-green?style=for-the-badge)
+![Data Analyst](https://img.shields.io/badge/Role-Data%20Analyst-orange?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/Hosted_on-GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🔍 Overview
+This project reconciles client-reported transactions with internal records to identify mismatches, missing entries, and amount discrepancies.
+
+### 📊 Key Features
+- Compares transaction ID, amount, and date
+- Uses Excel functions (VLOOKUP, IF, Conditional Formatting)
+- Mimics SQL-style JOIN logic
+- Ideal for QA and audit reporting in BFSI
+
+### 📁 Files Included
+- `client_transactions.csv`
+- `internal_transactions.csv`
+- `reconciliation_report.xlsx`
+
+
 # Client Transaction Reconciliation Tool – Ajay Sharnagat
 
 This project compares client-reported transactions against internal records to detect mismatches and missing entries.
