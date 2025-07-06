@@ -18,5 +18,3 @@ This project compares client-reported transactions against internal records to d
 - Real-world BFSI reconciliation principles
 
 ---
-
-Created as part of Ajay Sharnagat's portfolio to demonstrate financial QA and reporting logic.
